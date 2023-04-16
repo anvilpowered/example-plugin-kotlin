@@ -1,4 +1,3 @@
 package org.example
 
-class SpongeBridgeSource {
-}
+class SpongeBridgeSource
