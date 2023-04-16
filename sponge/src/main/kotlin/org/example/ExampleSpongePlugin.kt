@@ -7,7 +7,7 @@ import org.spongepowered.api.event.lifecycle.LoadedGameEvent
 
 class ExampleSpongePlugin @Inject constructor(
     private val logger: Logger,
-){
+) {
 
     @Listener
     fun onInit(event: LoadedGameEvent) {
