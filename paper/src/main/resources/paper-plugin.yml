@@ -1,0 +1,5 @@
+name: example-plugin
+version: '0.1.0-SNAPSHOT'
+main: org.example.ExamplePaperPlugin
+description: Paper Example Plugin
+api-version: '1.19'
