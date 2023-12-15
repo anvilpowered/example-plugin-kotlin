@@ -13,7 +13,7 @@ velocity = "com.velocitypowered:velocity-api:3.2.0-SNAPSHOT"
 
 
 [plugins]
-kotlin-jvm = "org.jetbrains.kotlin.jvm:1.8.20"
+kotlin-jvm = "org.jetbrains.kotlin.jvm:1.9.21"
 ktlint = "org.jlleitschuh.gradle.ktlint:11.6.1"
 shadow = "com.github.johnrengelman.shadow:8.1.1"
 sponge = "org.spongepowered.gradle.plugin:2.1.1"
