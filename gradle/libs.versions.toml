@@ -2,7 +2,7 @@
 kbrig = "0.1.0"
 
 [libraries]
-adventure-bom = "net.kyori:adventure-bom:4.13.1"
+adventure-bom = "net.kyori:adventure-bom:4.15.0"
 brigadier = "com.mojang:brigadier:1.0.18"
 kbrig-brigadier = { module = "org.anvilpowered:kbrig-brigadier", version.ref = "kbrig" }
 kbrig-core = { module = "org.anvilpowered:kbrig-core", version.ref = "kbrig" }
